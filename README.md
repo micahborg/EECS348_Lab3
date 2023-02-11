@@ -92,4 +92,4 @@ Possible Combinations of Scoring Plays:
 3 TD, 0 3PT FG, 0 Safety, 1 TD + FG, 0 TD + 2PT
 3 TD, 1 3PT FG, 2 Safety, 0 TD + FG, 0 TD + 2PT
 Enter 0 or 1 to STOP
-Enter the NFL Score: 
+Enter the NFL Score:
